@@ -1,0 +1,1 @@
+print("Ye master wala  hai")
