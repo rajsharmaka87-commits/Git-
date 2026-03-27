@@ -1,0 +1,1 @@
+print("Chotu ka pc gaya Chotu ab road pe aaega YEhh")
